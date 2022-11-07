@@ -68,9 +68,11 @@ h1{
     display: flex;
     justify-content: space-between;
 }
+.redes a{
+    width: 30px;
+}
 .redes img{
     width: 30px;
-    margin: 0 15px;
     border-radius: 10px;
 }
 .slider{
